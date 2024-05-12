@@ -98,7 +98,7 @@ public class Pedidos extends javax.swing.JFrame {
                 btnSeguridadActionPerformed(evt);
             }
         });
-        jPanel3.add(btnSeguridad, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 430, 150, -1));
+        jPanel3.add(btnSeguridad, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 430, 150, 40));
 
         btnVentas.setBackground(new java.awt.Color(204, 204, 255));
         btnVentas.setFont(new java.awt.Font("Dialog", 1, 13)); // NOI18N
@@ -109,7 +109,7 @@ public class Pedidos extends javax.swing.JFrame {
                 btnVentasActionPerformed(evt);
             }
         });
-        jPanel3.add(btnVentas, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 20, 150, -1));
+        jPanel3.add(btnVentas, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 20, 150, 50));
 
         btnProductos.setBackground(new java.awt.Color(204, 204, 255));
         btnProductos.setFont(new java.awt.Font("Dialog", 1, 13)); // NOI18N
@@ -135,7 +135,7 @@ public class Pedidos extends javax.swing.JFrame {
                 btnEmpleadosActionPerformed(evt);
             }
         });
-        jPanel3.add(btnEmpleados, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 130, 150, -1));
+        jPanel3.add(btnEmpleados, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 130, 150, 40));
 
         btnInformes.setBackground(new java.awt.Color(204, 204, 255));
         btnInformes.setFont(new java.awt.Font("Dialog", 1, 13)); // NOI18N
@@ -148,7 +148,7 @@ public class Pedidos extends javax.swing.JFrame {
                 btnInformesActionPerformed(evt);
             }
         });
-        jPanel3.add(btnInformes, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 180, 150, -1));
+        jPanel3.add(btnInformes, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 180, 150, 40));
 
         btnClientes.setBackground(new java.awt.Color(204, 204, 255));
         btnClientes.setFont(new java.awt.Font("Dialog", 1, 13)); // NOI18N
@@ -161,7 +161,7 @@ public class Pedidos extends javax.swing.JFrame {
                 btnClientesActionPerformed(evt);
             }
         });
-        jPanel3.add(btnClientes, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 230, 150, -1));
+        jPanel3.add(btnClientes, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 230, 150, 40));
 
         btnProveedores.setBackground(new java.awt.Color(204, 204, 255));
         btnProveedores.setFont(new java.awt.Font("Dialog", 1, 13)); // NOI18N
@@ -185,7 +185,7 @@ public class Pedidos extends javax.swing.JFrame {
                 btnPromocionesActionPerformed(evt);
             }
         });
-        jPanel3.add(btnPromociones, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 330, -1, -1));
+        jPanel3.add(btnPromociones, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 330, 150, 40));
 
         btnPedidos.setBackground(new java.awt.Color(204, 204, 255));
         btnPedidos.setFont(new java.awt.Font("Dialog", 1, 13)); // NOI18N
@@ -198,7 +198,7 @@ public class Pedidos extends javax.swing.JFrame {
                 btnPedidosActionPerformed(evt);
             }
         });
-        jPanel3.add(btnPedidos, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 380, 150, -1));
+        jPanel3.add(btnPedidos, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 380, 150, 40));
 
         getContentPane().add(jPanel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 70, 190, 560));
 

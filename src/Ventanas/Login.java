@@ -50,7 +50,7 @@ public class Login extends javax.swing.JFrame {
         login.add(lblContrasena, new org.netbeans.lib.awtextra.AbsoluteConstraints(410, 130, -1, -1));
 
         txtUsuario.setText(" ");
-        login.add(txtUsuario, new org.netbeans.lib.awtextra.AbsoluteConstraints(340, 90, 280, 30));
+        login.add(txtUsuario, new org.netbeans.lib.awtextra.AbsoluteConstraints(330, 90, 300, 30));
         login.add(Password, new org.netbeans.lib.awtextra.AbsoluteConstraints(340, 170, 280, 30));
 
         jButton1.setBackground(new java.awt.Color(0, 0, 0));
